@@ -1,0 +1,443 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.naw-1{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-top: 10px;
+ 
+   padding-right: 100px;
+   padding-left: 20px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    list-style: none;
+    
+       
+}
+.h1-rang{
+    color:#252B42 ;
+    height: 70px;
+}
+.a-a{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color:gray;
+}
+
+
+#img{
+     background-image: url("./img/opoqi.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size:cover ;
+     
+}
+
+.new-2{
+    
+    padding-top: 250px;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    align-items: center;
+    
+    
+}
+
+
+.emp{
+    margin-bottom: 20px;
+    font-size: 50px;
+    
+}
+
+.we{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #737373;
+}
+
+.btn-1, .btn-2{
+    width: 170px;
+    height: 48px;
+    border-radius: 50px;
+    border-radius: none;
+    cursor: pointer;
+     
+    
+}
+
+.btn-1{
+    background-color: #FFA62B;
+    color: white;
+   
+}
+
+.btn-2{
+    background-color: rgba(255, 255, 255, 0.116);
+    color: #00A0C1;
+   border-color:#00A0C1 ;
+}
+
+.butonlar{
+display: flex;
+gap: 10px;
+
+}
+
+.cardlar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 320px;
+    height: 210px;
+    box-shadow: 1px 1px 5px grey;
+    padding: 30px;
+    background-color: white;
+}
+
+.naw-3{
+
+    margin-top: 90px;
+    margin-bottom: 90px;
+    /* background-color: white; */
+
+}
+.h-1{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.card-11{
+    width: 320px;
+    height: 210px;
+    box-shadow: 1px 1px 10px grey;
+    padding: 30px;
+    background-color:#00A0C1 ;
+    color: white;
+    
+
+}
+
+
+#section-1{
+    margin-top: -200px;
+   
+}
+
+
+
+
+#section-2{
+    margin-top: 150px;
+}
+.kard-1{
+    width: 235px;
+    height: 210px;
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.281);
+    text-align: center;
+    padding-top: 30px;
+   
+    
+    
+}
+
+
+.prob{
+    text-align: center;
+    margin-bottom: 50px;
+    color: #737373;
+}
+
+.kard-1 h1{
+    font-size: 40px;
+    margin-top: 10px;
+    
+}
+.kard-ota{
+    display: flex;
+    justify-content: space-between;
+}
+
+.kard-ota p{
+    margin-top: 15px;
+}
+
+.abo{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+
+
+.kard-1 p{
+    color:#737373 ;
+}
+
+
+
+
+
+.new-5{
+    margin-top: 150px;
+    margin-bottom: 90px;
+    /* display: flex; */
+
+}
+
+
+.abvi{
+text-align: center;
+margin-top: 40px;
+font-size: 40px;
+}
+
+.pro{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.karopka{
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.096);
+    width: 250px;
+    height: 320px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.a-a {
+
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+.neww{
+    padding-left: 20px;
+    margin-bottom: 32px;
+    color: #737373;
+}
+
+.flexx{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+#main{
+    background-color:#FAFAFA ;
+}
+
+
+.new-6{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: white;
+}
+
+.ota-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mos{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.most{
+    color: #737373;
+}
+
+.the{
+    margin-top: 15px;
+
+}
+.th{
+    margin-top: 10px;
+}
+
+
+.bus{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.orp{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+.cardlar-1 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+}
+
+.cardd{
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.534);
+    width: 325px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    
+
+}
+
+.con{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.try{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.geo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.btnlar{
+    margin-top: 30px;
+    border-radius: 5px;
+    width: 160px;
+    height: 44px;
+    color: #FFA62B;
+    border-color: #FFA62B;
+    cursor: pointer;
+}
+
+.quti{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.cardd-{
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.11);
+        width: 325px;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-color: #252B42 ;
+        color: white;
+}
+
+.btnlar-{
+    margin-top: 30px;
+        border-radius: 5px;
+        width: 160px;
+        height: 44px;
+        color: white;
+        border-color:white;
+        background-color: #252B42;
+        cursor: pointer;
+}
+
+.input{
+    align-items: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: white;
+   
+    text-align: center;
+  
+}
+
+.input input{
+    outline: none;
+    width: 90%;
+    border-radius: 5px;
+    padding-left: 10px;
+    height: 50px;
+   
+  
+}
+#sec{
+    width: 90%;
+    height: 50px;
+    cursor: pointer;
+}
+#come{
+    height: 156px;
+    padding-bottom: 100px;
+    outline: none;
+
+    
+}
+
+.Contact{
+    width: 165px;
+    height: 60px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 35px;
+    background-color:#FFA62B ;
+    cursor: pointer;
+}
+
+#fod{
+    background-color:#16697A ;
+}
+
+.food{
+    display: flex;
+    justify-content: space-between;
+    background-color: #16697A;
+    color: white;
+}
+
+.foter{
+    line-height: 1.9;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.food ul {
+list-style: none;
+}
+
+.of{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+}
+
+.of img{
+    width:24px ;
+    height: 24px;
+    
+}
+
+.of h1{
+    font-size: 30px;
+}
